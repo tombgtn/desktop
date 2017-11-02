@@ -2639,7 +2639,7 @@ progress {
 .branches-list button.new-branch-button {
   align-self: center;
   margin-right: var(--spacing);
-  width: 60px; }
+  width: 70px; }
 
 .no-pull-requests {
   width: 300px;
